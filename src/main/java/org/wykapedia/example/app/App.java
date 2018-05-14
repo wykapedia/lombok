@@ -1,11 +1,11 @@
-package com.ayon.app;
+package org.wykapedia.example.app;
 
-import com.ayon.lombok.ex1.LombokExample;
-import com.ayon.lombok.ex2.LombokExample2;
-import com.ayon.lombok.ex3.LombokExample3;
-import com.ayon.lombok.ex4.LombokExample4;
-import com.ayon.lombok.ex5.LombokExample5;
-import com.ayon.lombok.ex8.LombokExample8;
+import org.wykapedia.example.lombok.ex1.LombokExample;
+import org.wykapedia.example.lombok.ex2.LombokExample2;
+import org.wykapedia.example.lombok.ex3.LombokExample3;
+import org.wykapedia.example.lombok.ex4.LombokExample4;
+import org.wykapedia.example.lombok.ex5.LombokExample5;
+import org.wykapedia.example.lombok.ex8.LombokExample8;
 
 public class App {
     public static void main(String[] args) {

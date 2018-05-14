@@ -1,4 +1,4 @@
-package com.ayon.lombok.ex6;
+package org.wykapedia.example.lombok.ex6;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

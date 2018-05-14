@@ -1,4 +1,4 @@
-package com.ayon.lombok.ex2;
+package org.wykapedia.example.lombok.ex2;
 
 import java.util.Map;
 

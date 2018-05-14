@@ -1,4 +1,4 @@
-package com.ayon.lombok.ex4;
+package org.wykapedia.example.lombok.ex4;
 
 import lombok.AllArgsConstructor;
 import lombok.EqualsAndHashCode;

@@ -1,6 +1,6 @@
-package com.ayon.lombok.ex7;
+package org.wykapedia.example.lombok.ex7;
 
-import com.ayon.lombok.ex6.LombokExample6;
+import org.wykapedia.example.lombok.ex6.LombokExample6;
 import lombok.*;
 
 

@@ -1,10 +1,10 @@
-package com.ayon.lombok.ex1;
-
-import java.util.List;
-import java.util.Map;
+package org.wykapedia.example.lombok.ex1;
 
 import lombok.Getter;
 import lombok.Setter;
+
+import java.util.List;
+import java.util.Map;
 
 
 /*

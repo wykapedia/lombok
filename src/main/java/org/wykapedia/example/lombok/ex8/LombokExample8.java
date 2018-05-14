@@ -1,8 +1,6 @@
-package com.ayon.lombok.ex8;
+package org.wykapedia.example.lombok.ex8;
 
-import com.ayon.lombok.ex6.LombokExample6;
 import lombok.extern.slf4j.Slf4j;
-import lombok.val;
 
 
 /*

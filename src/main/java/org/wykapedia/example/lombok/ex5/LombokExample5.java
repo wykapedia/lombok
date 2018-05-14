@@ -1,6 +1,7 @@
-package com.ayon.lombok.ex3;
+package org.wykapedia.example.lombok.ex5;
 
 import lombok.AllArgsConstructor;
+import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.RequiredArgsConstructor;
@@ -15,12 +16,12 @@ import lombok.Setter;
 */
 
 
-@RequiredArgsConstructor
+@Builder
 @AllArgsConstructor
 @Getter
 @Setter
-public class LombokExample3 {
-    private final String sentence;
+public class LombokExample5 {
+    private String sentence;
     private boolean isValue;
     private String val;
 }
